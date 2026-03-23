@@ -8,7 +8,7 @@ Edited: 2026-03-23
 
 ## Hi there,
 
-My trade is software and computer engineering applying well-structured development to support an application. I enjoy software tools in .NET, Python, TypeScript, and other programming languages and contributing to robust, dependable, and standards-based applications. Most of my personal work is available to the public for demonstration and is closed sources.
+My trade is software and computer engineering applying well-structured development to support an application. I enjoy software tools in .NET, Python, TypeScript, and other programming languages and contributing to robust, dependable, and standards-based applications. Most of my personal work is available to the public for demonstration and is closed sourced.
 - I’m currently working on ... **HTTP Request** migration to WPF and adding features
 - Ask me about ... **Azure or SharePoint** knowledge. I've learned from major industry experts and offer collaboration and insights into the software, structure, and architecture of big tools
 - How to reach me: ... **Linkedin**
