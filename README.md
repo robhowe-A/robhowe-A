@@ -3,7 +3,7 @@ Copyright (c) 2026 Robert A. Howell
 Author: Robert A. Howell
 Description: robhowe-A/robhowe-A is a special repository: its README.md will appear on your profile!
 Created_Date: March 2026
-Edited: 2026-03-23
+Edited: 2026-05-13
 -->
 
 ## Hi there,
@@ -15,5 +15,8 @@ My trade is software and computer engineering applying well-structured developme
 
 I have multiple projects and code deployed to the web and the application store.
 For a centralized view into my web projects and demos, I created [https://www.roberthowell.dev/](https://www.roberthowell.dev/).  
+
+Linkedin: [Robert Howell](www.linkedin.com/in/rhowell-5464)  
+
 
 -Robert
