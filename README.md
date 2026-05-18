@@ -16,7 +16,7 @@ My trade is software and computer engineering applying well-structured developme
 I have multiple projects and code deployed to the web and the application store.
 For a centralized view into my web projects and demos, I created [https://www.roberthowell.dev/](https://www.roberthowell.dev/).  
 
-Linkedin: [https://www.roberthowell.dev/](https://www.roberthowell.dev/)  
+Linkedin: [Robert Howell](https://www.linkedin.com/in/rhowell-5464)  
 
 
 -Robert
